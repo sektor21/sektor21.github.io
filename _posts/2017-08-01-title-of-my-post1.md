@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Мой первый блог! Ура!"
 date: 2017-08-01
 ---
 
